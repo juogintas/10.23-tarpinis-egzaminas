@@ -300,4 +300,7 @@ footer .made-with-2 {
     display: flex;
     justify-content: space-between;
   }
+  footer ul {
+    padding-left: 0;
+  }
 }/*# sourceMappingURL=style.css.map */
